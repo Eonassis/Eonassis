@@ -1,3 +1,8 @@
+
+
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+
+
 <h1 align="center">Oi 👋, Eu sou Eonasis Oliveira Santos</h1>
 <h3 align="center">Doutorando em Computacao e Pesquisador nas mais diversas áreas</h3>
 ##Tenho 36 anos, moro em Teixeira de freitas/BA e sou apaixonada por programação e Redes! Sou Senior no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Adoro escovar bit's e resolver Problemas, assim como ajudar os outros ❤**
@@ -16,12 +21,12 @@
 
 - 📫 Você pode falar comigo pelo e-mail ou Instagram (nao demoro a responder e sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =), nao todos menos de 10% que produzo esta no git.
 
-##
+
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Texas/BA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eonassis&label=Profile%20views&color=0e75b6&style=flat" alt="eonassis" /> </p>
 
@@ -45,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eonassis&show_icons=true&locale=en" alt="eonassis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eonassis&" alt="eonassis" /></p>
+
+![Snake animation](https://github.com/Eonassis/Eonassis/blob/output/github-contribution-grid-snake.svg)
