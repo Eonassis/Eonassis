@@ -5,8 +5,8 @@
 
 <h1 align="center">Oi 👋, Eu sou Eonasis Oliveira Santos</h1>
 <h3 align="center">Doutorando em Computacao e Pesquisador nas mais diversas áreas</h3>
-##Tenho 36 anos, moro em Teixeira de freitas/BA e sou apaixonada por programação e Redes! Sou Senior no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Adoro escovar bit's e resolver Problemas, assim como ajudar os outros ❤**
-##
+Tenho 36 anos, moro em Teixeira de freitas/BA e sou apaixonada por programação e Redes! Sou Senior no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Adoro escovar bit's e resolver Problemas, assim como ajudar os outros ❤**
+
 - 🌱 Atualmente estou estudando **ADVPL, Python, Machine Learning, R,**
 
 - 💬 Me pergunte sobre: **ADVPL, SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros, PoS, Adiquirencia**
