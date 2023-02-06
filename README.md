@@ -51,4 +51,3 @@ Tenho 36 anos, moro em Teixeira de freitas/BA e sou apaixonada por programação
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eonassis&" alt="eonassis" /></p>
 
-![Snake animation](https://github.com/Eonassis/Eonassis/blob/output/github-contribution-grid-snake.svg)
