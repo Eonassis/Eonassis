@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Eonasis Oliveira Santos</h1>
-<h3 align="center">Estudante de Ciências de Dados nas mais diversas áreas</h3>
+<h3 align="center">Doutorando em Computacao e Pesquisador nas mais diversas áreas</h3>
 
-- 🌱 Atualmente estou estudando **Python, Machine Learning, R,**
+- 🌱 Atualmente estou estudando **ADVPL, Python, Machine Learning, R,**
 
 - 💬 Me pergunte sobre: **SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros,**
 
