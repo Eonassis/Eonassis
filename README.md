@@ -1,13 +1,25 @@
 <h1 align="center">Oi 👋, Eu sou Eonasis Oliveira Santos</h1>
 <h3 align="center">Doutorando em Computacao e Pesquisador nas mais diversas áreas</h3>
-
+##Tenho 36 anos, moro em Teixeira de freitas/BA e sou apaixonada por programação e Redes! Sou Senior no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Adoro escovar bit's e resolver Problemas, assim como ajudar os outros ❤**
+##
 - 🌱 Atualmente estou estudando **ADVPL, Python, Machine Learning, R,**
 
-- 💬 Me pergunte sobre: **SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros,**
+- 💬 Me pergunte sobre: **ADVPL, SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros, PoS, Adiquirencia**
 
 - 📫 Você me acha através do e-mail: **Eonassis@msn.com**
 
 - 📄 Segue meu Perfil do Linkedin [https://www.linkedin.com/in/eonassis-oliveira-santos-4aa35b99/]
+
+- 🤿 Faço parte do Team do GOVBA como professor, estou buscando oportunidades;
+
+- ☕🎮 só acordo com café, adoro games (mas sou muito ruim em quase todos).
+
+- 📫 Você pode falar comigo pelo e-mail ou Instagram (nao demoro a responder e sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =), nao todos menos de 10% que produzo esta no git.
+
+##
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
